@@ -1,0 +1,52 @@
+project:
+  type: website
+  title: "Urban Analytics"
+  resources:
+    - "*/slides/*"
+  output-dir: ./docs
+
+lang: en
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    smooth-scroll: true
+    highlight-style: atom-one
+
+website:
+  repo-url: https://github.com/darribas/ua_lectures/
+  twitter-card: true
+  page-navigation: true
+  page-footer:
+    center: "Content by [Dani Arribas-Bel](https://darribas.org). Available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+  search:
+    location: sidebar
+    type: overlay
+  sidebar:
+    style: floating
+    collapse-level: 1
+    #logo: assets/logo.svg
+    tools:
+      - icon: github
+        href: https://github.com/darribas/ua_lectures
+    contents:
+      - href: index.qmd
+        text: Info
+      - href: video.qmd
+        text: Video
+      - section: "Slides"
+        contents:
+          - href: slides/00-intro.qmd
+            text: Introduction
+          - href: slides/01-ua_overview.qmd
+            text: UA Overview
+          - href: slides/02-demoland.qmd
+            text: DemoLand
+          - href: slides/03-gds_book.qmd
+            text: GDS Book
+      - href: downloads.qmd
+        text: Downloads
+

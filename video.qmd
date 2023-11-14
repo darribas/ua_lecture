@@ -1,0 +1,11 @@
+# Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BkESZAeQGZc?si=rCytbXQZo_dr0AM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Timeline:
+
+- `00:00:00` [Introduction](slides/00-intro.qmd)
+- `00:11:34` [UA Overview](slides/01-ua_overview.qmd)
+- `01:00:53` [DemoLand](slides/02-demoland.qmd)
+- `03:21:27` [GDS Book](slides/03-gds_book.qmd)
+

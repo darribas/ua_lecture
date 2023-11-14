@@ -1,0 +1,10 @@
+
+# Downloads
+
+You can download PDF versions of the slides below:
+
+- [Introduction](slides/00-intro.pdf)
+- [UA Overview](slides/01-ua_overview.pdf)
+- [DemoLand](slides/02-demoland.pdf)
+- [GDS Book](slides/03-gds_book.pdf)
+

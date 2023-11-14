@@ -1,0 +1,107 @@
+---
+title: Urban Analytics <br> & <br> City Science
+subtitle: Overview
+author: Dani Arribas-Bel
+format:
+  revealjs:
+    theme:
+      - serif
+      - journal.scss
+    logo: fig/logos.png
+    navigation-mode: linear
+    controls-layout: 'bottom-right'
+---
+
+## Background
+
+- 🏙️ <span class='hlg'>Cities</span> are (increasingly) relevant for all of humanity's challenges but also
+  their solutions
+- 📈 <span class='hlg'>Data</span>, data, data
+- 🤖 Data is the oil, <span class='hlg'>analytics</span> is the refinery (Rey, 2021)
+
+## Definition
+
+:::: {.columns}
+::: {.column width='70%'}
+![](fig/ua_defined.png)
+:::
+::: {.column width='30%'}
+
+> Batty (2019)
+
+[Source](https://journals.sagepub.com/doi/10.1177/2399808319839494)
+
+New, big, fast data; but also the _theory_ behind them
+:::
+::::
+
+# Trajectory
+
+## Origins & evolution
+
+- Vague but early start linked to physics
+- From deductive to inductive
+- Computing and data technologies critical in trajectory
+
+![[Source](https://arxiv.org/abs/2105.07020)](fig/ua_history.png)
+
+## Urban Data Science
+
+:::: {.columns}
+::: {.column width='60%'}
+![](fig/uds_roundtable.png){height='100%'}
+:::
+::: {.column width='40%'}
+
+> Kang et al. (2019)
+
+[Source](https://journals.sagepub.com/doi/10.1177/2399808319882826)
+:::
+::::
+
+## Contemporary Urban Analytics
+
+- Landing the <span class='hlg'>data/AI</span> revolution on cities and regions
+- Natively interdisciplinary (the <span class='hlg'>urban</span> as nexus)
+- Linked to policy, decision-making, <span class='hlg'>practice</span>
+
+# Praxis
+
+## EP-B Urban Data/Code
+
+:::: {.columns}
+::: {.column width='70%'}
+![](fig/epb_data_code.png)
+:::
+::: {.column width='30%'}
+
+> Arribas-Bel et al. (2021)
+
+[Source](https://uk.sagepub.com/en-gb/eur/urban-analytics/book249267)
+:::
+::::
+
+## Pedagogy
+
+:::: {.columns}
+::: {.column width='50%'}
+![](fig/ua_book.png)
+:::
+::: {.column width='50%'}
+- Urban theory & methods
+- Interdisciplinary
+* Modern tools
+
+[Source](https://uk.sagepub.com/en-gb/eur/urban-analytics/book249267)
+:::
+::::
+
+## Urban Analytics@Turing
+
+![[Source](https://www.turing.ac.uk/research/research-programmes/urban-analytics)](fig/ua_turing.png)
+
+#
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"> These slides </span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+

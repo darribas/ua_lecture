@@ -1,0 +1,175 @@
+---
+title: The DemoLand project
+subtitle: Urban Analytics *in the wild*
+author: Dani Arribas-Bel
+format:
+  revealjs:
+    theme:
+      - serif
+      - journal.scss
+    logo: fig/logos.png
+    navigation-mode: linear
+    controls-layout: 'bottom-right'
+---
+
+# Background
+
+## {background-image="../fig/geospatial_commission.png" background-size="contain"}
+##
+
+:::: {.columns}
+::: {.column width="50%"}
+[![](../fig/nldp_report.png)](https://www.gov.uk/government/publications/finding-common-ground-integrating-data-science-and-innovation-for-better-use-of-land)
+:::
+
+::: {.column width="50%"}
+::: {.fragment}
+[![](../fig/nldp_pilot.png)](https://www.gov.uk/government/publications/finding-common-ground-integrating-data-science-and-innovation-for-better-use-of-land/finding-common-ground-integrating-data-science-and-innovation-for-better-use-of-land#section-1-the-land-economy)
+:::
+:::
+::::
+
+# Context
+
+:::: {.columns}
+::: {.column width='40%'}
+[![](fig/emma_warneford.png)](https://twitter.com/GeospatialC/status/1694606749091693048)
+:::
+::: {.column width='60%'}
+- Newcastle City Council
+- Local Spatial Plan
+- Policy needs, challenges
+:::
+::::
+
+# Goals
+
+- Quantify competing aspects of land use in a given urban environment through
+  key indicators (<span class='hlg'>*baseline*</span>)
+- Build bespoke scenarios under changes that affect the distribution of such
+  land use (<span class='hlg'>*scenarios*</span>)
+- Present outputs in an interactive visualisation <span class='hlg'>tool</span>
+
+# Baseline
+
+## Indicators
+
+::: {layout-nrow=2}
+![Air Quality](fig/air_pollution.png){width=200}
+
+![House Prices](fig/house_prices.png){width=200}
+
+![Job Acessibility](fig/job_accessibility.png){width=200}
+
+![Green Space Accessibility](fig/greenspace_accessibility.png){width=200}
+:::
+
+## Land Use - Spatial Signatures
+
+:::: {.columns}
+::: {.column width="60%"}
+*Characterisation of space based on form and function designed to understand urban environments*
+
+[`UrbanGrammarAI.xyz`](https://urbangrammarai.xyz)
+:::
+::: {.column width="40%"}
+[![](fig/spatial_signatures.png)](https://urbangrammarai.xyz/story)
+:::
+::::
+
+## Land Use <--> Indicators
+
+`Accessibility scores`
+
+- Employment
+- Green space
+
+`Predictive models`
+
+- Air quality
+- House prices
+
+# *What if* scenarios
+
+##
+
+:::: {.columns}
+
+::: {.column width='60%'}
+
+> Exploring the effect of <span class='hlg'>changing</span> the baseline <span class='hlg'>land use</span> on the indicators of
+interest
+
+### Baseline
+
+The world as it is
+
+### Scenarios
+
+The world as it _could_ be
+
+:::
+
+::: {.column width='40%'}
+
+![](fig/scenario.png)
+:::
+::::
+
+## Co-produced scenarios
+
+- Residential development
+
+    - Low density (**1**)
+    - Mid-density compact (**2**)
+
+- Inner-city densification (**3**)
+- Brownfield redevelopment (**4**, **5**)
+
+    - Dense neighborhoods (**4**)
+    - Parks (**5**)
+- Combinations (**6**, **7**)
+
+# Interactive tool
+
+## {background-image="../fig/web_tool.png" background-size="contain"}
+
+## Demo [`[URL]`](https://urban-analytics-technology-platform.github.io/demoland-web/v1.0/) {.center}
+
+## Play time - Activity I
+
+- `[10min]` Explore the set scenarios on your own
+- `[10min]` Think of a new scenario you would like to explore
+    - Why is it relevant?
+    - What changes would it contain?
+    - What effects would you expect?
+
+## Play time - Activity II
+
+New version!
+[`[URL]`](https://urban-analytics-technology-platform.github.io/demoland-web/)
+
+- `[15min]` Implement your scenario (use the [spatial signature
+  descriptions](https://urbangrammarai.xyz/story/#ss) for help
+- `[10min]` Explore the changes when compared to the baseline
+    - Are they in line with your expectations?
+    - What is unexpected?
+    - Why do you think this is?
+
+## "Behind the scenes..."
+
+Urban Data Science and all that jazz...
+
+- Policy relevance
+- Data, data, data
+- Models, spatial analysis, machine learning
+- Co-production
+
+# {background-image="../fig/demoland_turing.png" background-size="contain"}
+
+#
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"> These slides </span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+
+

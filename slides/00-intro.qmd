@@ -1,0 +1,49 @@
+---
+title: MSc Engineers for Smart Cities
+subtitle: Université Côte d'Azur
+author: Dani Arribas-Bel
+format:
+  revealjs:
+    theme:
+      - serif
+      - journal.scss
+    logo: fig/logos.png
+    navigation-mode: grid
+---
+
+## `whoami` - Dani Arribas-Bel
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+![](https://darribas.org/assets/img/dab_small.jpg)
+
+:::
+
+::: {.column width="70%"}
+
+- Deputy Director Urban Analytics <br> [The Alan Turing
+  Institute](https://turing.ac.uk)
+- Professor in Geographic Data Science <br> [University of
+  Liverpool](https://www.liverpool.ac.uk/environmental-sciences/staff/daniel-arribas-bel/)
+- Employee No. 2 <br> [Geographic Data Science
+  Lab](https://liverpool.ac.uk/geographic-data-science)
+
+:::
+
+::::
+
+[`https://darribas.org`](https://darribas.org) | [`@darribas@mapstodon.space`](https://mapstodon.space/@darribas)
+
+## Materials
+
+> [`darribas.org/ua_lecture`](https://darribas.org/ua_lecture)
+
+## Outline
+
+1. Urban Analytics & City Science: Overview
+1. Urban Analytics in the wild: the DemoLand project
+1. *Geographic Data Science with Python*
+
+

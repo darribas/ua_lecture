@@ -1,0 +1,187 @@
+---
+title: Geographic Data Science with Python
+subtitle: The Book
+author: Dani Arribas-Bel
+format:
+  revealjs:
+    theme:
+      - serif
+      - journal.scss
+    logo: fig/logos.png
+    navigation-mode: linear
+    controls-layout: 'bottom-right'
+---
+
+## It's a book you can buy!
+
+<table>
+<col width="50%">
+<col width="50%">
+<tr>
+<td>
+<center>
+<img src="https://geographicdata.science/assets/fig/book.png" style="width:350px;vertical-align:middle">
+</center>
+</td>
+<td>
+<center>
+<a href="https://www.routledge.com/Geographic-Data-Science-with-Python/Rey-Arribas-Bel-Wolf/p/book/9781032445953"><img src="https://github.com/darribas/gdsbook_overview/blob/main/fig/qr_book_order.gif?raw=true" style="width:350px;vertical-align:middle"/></a>
+</center>
+</td>
+</tr>
+</table>
+
+
+## But also...
+
+For free forever at:
+
+- &#x1F4D6; [`https://geographicdata.science`](https://geographicdata.science)
+- &#x1F4BB; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdsbook/book/HEAD)
+- &#x1F4A1; [`https://github.com/gdsbook/book`](https://github.com/gdsbook/book)
+
+<CENTER>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+</CENTER>
+
+## The Authors
+
+<table>
+<col width="30%">
+<col width="30%">
+<col width="30%">
+<tr>
+<td>
+
+<CENTER>
+<img src="https://sergerey.org/images/profile.png" height="200"/>
+</CENTER>
+
+[`@sreyog`](https://twitter.com/sreyog)
+
+Serge Rey
+
+</td>
+<td>
+
+<CENTER>
+<img src="https://darribas.org/assets/img/dab_small.jpg" height="200"/>
+</CENTER>
+
+[`@darribas`](https://twitter.com/darribas)
+
+Dani Arribas-Bel
+
+</td>
+<td>
+
+<CENTER>
+<img src="https://www.ljwolf.org/images/main.jpg" height="200"/>
+</CENTER>
+
+[`@levijohnwolf`](https://twitter.com/levijohnwolf)
+
+Levi Wolf
+
+</td>
+</tr>
+</table>
+
+## The Book is...
+
+![](https://github.com/darribas/gdsbook_overview/blob/main/fig/venn.png?raw=true)
+
+## {data-background=https://github.com/darribas/gdsbook_overview/blob/main/fig/toc.png?raw=true data-background-size=contain data-transition=none}
+## {data-background='fig/book_toc.png' data-background-size=contain data-transition=none}
+
+## Python
+
+<center>
+<img src="https://imgs.xkcd.com/comics/python.png" style="height:500px;vertical-align:middle">
+</center>
+
+<p class='pie'><a href="https://imgs.xkcd.com/comics/python.png">Source</a></p>
+
+## Radically Open
+
+<table>
+<col width="30%">
+<col width="30%">
+<col width="30%">
+<tr>
+<td class='fragment'>
+<center>
+<a href="https://geographicdata.science/">
+<img src="https://github.com/darribas/gdsbook_overview/blob/main/fig/site.png?raw=true" style="width:500px;vertical-align:top">
+</a>
+</center>
+</td>
+<td class='fragment'>
+<center>
+<a href="https://github.com/gdsbook/book/">
+<img src="https://github.com/darribas/gdsbook_overview/blob/main/fig/github.png?raw=true" style="width:500px;vertical-align:top">
+</a>
+</center>
+</td>
+<td class='fragment'>
+<center>
+<a href="https://github.com/gdsbook/book/commits/master">
+<img src="https://github.com/darribas/gdsbook_overview/blob/main/fig/commits.png?raw=true" style="width:500px;vertical-align:top">
+</a>
+</center>
+</td>
+</tr>
+</table>
+
+
+## Code as text; <span class='fragment' data-fragment-index='1'>text as code</span>
+
+<table>
+<col width="50%">
+<col width="50%">
+<tr>
+<td>
+<center>
+<a href="https://geographicdata.science/book/notebooks/08_point_pattern_analysis.html#centrography">
+<img src="https://github.com/darribas/gdsbook_overview/blob/main/fig/points.png?raw=true" style="width:500px;vertical-align:middle">
+</a>
+</center>
+</td>
+<td class='fragment' data-fragment-index='1'>
+<center>
+<a href="https://github.com/gdsbook/book/actions">
+<img src="https://github.com/darribas/gdsbook_overview/blob/main/fig/ga_actions.png?raw=true" style="width:500px;vertical-align:middle">
+</a>
+</center>
+</td>
+</tr>
+</table>
+
+## Runs *anywhere*...
+
+<table>
+<col width="70%">
+<col width="30%">
+<tr>
+<td>
+
+[<img src="https://github.com/darribas/gdsbook_overview/blob/main/fig/gds_env.png?raw=true" style="width:500px;vertical-align:middle">](https://darribas.org/gds_env)
+
+`darribas.org/gds_env`
+
+</td>
+<td>
+
+<img
+src="https://github.com/darribas/gdsbook_overview/blob/main/fig/qr_gds_env.gif?raw=true" style="width:250px;vertical-align:middle">
+
+</tr>
+</table>
+
+## Demo [🚀]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdsbook/book/HEAD)) {.center}
+
+#
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"> These slides </span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+

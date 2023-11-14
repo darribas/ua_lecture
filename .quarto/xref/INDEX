@@ -1,0 +1,35 @@
+{
+  "03-gds_book.qmd": {
+    "03-gds_book.html": "037fefd8"
+  },
+  "01-ua_overview.qmd": {
+    "01-ua_overview.html": "be1bf04d"
+  },
+  "02-demoland.qmd": {
+    "02-demoland.html": "4b92fa0d"
+  },
+  "00-intro.qmd": {
+    "00-intro.html": "e535f034"
+  },
+  "index.qmd": {
+    "index.html": "6a865bc6"
+  },
+  "slides/03-gds_book.qmd": {
+    "03-gds_book.html": "1bada101"
+  },
+  "slides/01-ua_overview.qmd": {
+    "01-ua_overview.html": "13d2e87a"
+  },
+  "slides/02-demoland.qmd": {
+    "02-demoland.html": "8f27145e"
+  },
+  "slides/00-intro.qmd": {
+    "00-intro.html": "2dfba30c"
+  },
+  "downloads.qmd": {
+    "downloads.html": "98e4a7d9"
+  },
+  "video.qmd": {
+    "video.html": "db2c2520"
+  }
+}

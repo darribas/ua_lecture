@@ -1,0 +1,436 @@
+[
+  {
+    "objectID": "02-demoland.html#indicators",
+    "href": "02-demoland.html#indicators",
+    "title": "The DemoLand project",
+    "section": "Indicators",
+    "text": "Indicators\n\n\n\n\n\n\nAir Quality\n\n\n\n\n\n\n\nHouse Prices\n\n\n\n\n\n\n\n\n\nJob Acessibility\n\n\n\n\n\n\n\nGreen Space Accessibility"
+  },
+  {
+    "objectID": "02-demoland.html#land-use---spatial-signatures",
+    "href": "02-demoland.html#land-use---spatial-signatures",
+    "title": "The DemoLand project",
+    "section": "Land Use - Spatial Signatures",
+    "text": "Land Use - Spatial Signatures\n\n\nCharacterisation of space based on form and function designed to understand urban environments\nUrbanGrammarAI.xyz"
+  },
+  {
+    "objectID": "02-demoland.html#land-use-indicators",
+    "href": "02-demoland.html#land-use-indicators",
+    "title": "The DemoLand project",
+    "section": "Land Use <–> Indicators",
+    "text": "Land Use &lt;–&gt; Indicators\nAccessibility scores\n\nEmployment\nGreen space\n\nPredictive models\n\nAir quality\nHouse prices"
+  },
+  {
+    "objectID": "02-demoland.html#section-2",
+    "href": "02-demoland.html#section-2",
+    "title": "The DemoLand project",
+    "section": "",
+    "text": "Exploring the effect of changing the baseline land use on the indicators of interest\n\nBaseline\nThe world as it is\nScenarios\nThe world as it could be"
+  },
+  {
+    "objectID": "02-demoland.html#co-produced-scenarios",
+    "href": "02-demoland.html#co-produced-scenarios",
+    "title": "The DemoLand project",
+    "section": "Co-produced scenarios",
+    "text": "Co-produced scenarios\n\nResidential development\n\nLow density (1)\nMid-density compact (2)\n\nInner-city densification (3)\nBrownfield redevelopment (4, 5)\n\nDense neighborhoods (4)\nParks (5)\n\nCombinations (6, 7)"
+  },
+  {
+    "objectID": "02-demoland.html#demo-url",
+    "href": "02-demoland.html#demo-url",
+    "title": "The DemoLand project",
+    "section": "Demo [URL]",
+    "text": "Demo [URL]"
+  },
+  {
+    "objectID": "02-demoland.html#play-time---activity-i",
+    "href": "02-demoland.html#play-time---activity-i",
+    "title": "The DemoLand project",
+    "section": "Play time - Activity I",
+    "text": "Play time - Activity I\n\n[10min] Explore the set scenarios on your own\n[10min] Think of a new scenario you would like to explore\n\nWhy is it relevant?\nWhat changes would it contain?\nWhat effects would you expect?"
+  },
+  {
+    "objectID": "02-demoland.html#play-time---activity-ii",
+    "href": "02-demoland.html#play-time---activity-ii",
+    "title": "The DemoLand project",
+    "section": "Play time - Activity II",
+    "text": "Play time - Activity II\nNew version! [URL]\n\n[15min] Implement your scenario (use the spatial signature descriptions for help\n[10min] Explore the changes when compared to the baseline\n\nAre they in line with your expectations?\nWhat is unexpected?\nWhy do you think this is?"
+  },
+  {
+    "objectID": "02-demoland.html#behind-the-scenes",
+    "href": "02-demoland.html#behind-the-scenes",
+    "title": "The DemoLand project",
+    "section": "“Behind the scenes…”",
+    "text": "“Behind the scenes…”\nUrban Data Science and all that jazz…\n\nPolicy relevance\nData, data, data\nModels, spatial analysis, machine learning\nCo-production"
+  },
+  {
+    "objectID": "03-gds_book.html#its-a-book-you-can-buy",
+    "href": "03-gds_book.html#its-a-book-you-can-buy",
+    "title": "Geographic Data Science with Python",
+    "section": "It’s a book you can buy!",
+    "text": "It’s a book you can buy!"
+  },
+  {
+    "objectID": "03-gds_book.html#but-also",
+    "href": "03-gds_book.html#but-also",
+    "title": "Geographic Data Science with Python",
+    "section": "But also…",
+    "text": "But also…\nFor free forever at:\n\n📖 https://geographicdata.science\n💻 \n💡 https://github.com/gdsbook/book"
+  },
+  {
+    "objectID": "03-gds_book.html#the-authors",
+    "href": "03-gds_book.html#the-authors",
+    "title": "Geographic Data Science with Python",
+    "section": "The Authors",
+    "text": "The Authors\n\n\n\n\n\n\n\n\n\n\n@sreyog\nSerge Rey\n\n\n\n\n\n@darribas\nDani Arribas-Bel\n\n\n\n\n\n@levijohnwolf\nLevi Wolf"
+  },
+  {
+    "objectID": "03-gds_book.html#the-book-is",
+    "href": "03-gds_book.html#the-book-is",
+    "title": "Geographic Data Science with Python",
+    "section": "The Book is…",
+    "text": "The Book is…"
+  },
+  {
+    "objectID": "03-gds_book.html#python",
+    "href": "03-gds_book.html#python",
+    "title": "Geographic Data Science with Python",
+    "section": "Python",
+    "text": "Python\n\n\n\n\nSource"
+  },
+  {
+    "objectID": "03-gds_book.html#radically-open",
+    "href": "03-gds_book.html#radically-open",
+    "title": "Geographic Data Science with Python",
+    "section": "Radically Open",
+    "text": "Radically Open"
+  },
+  {
+    "objectID": "03-gds_book.html#code-as-text-text-as-code",
+    "href": "03-gds_book.html#code-as-text-text-as-code",
+    "title": "Geographic Data Science with Python",
+    "section": "Code as text; text as code",
+    "text": "Code as text; text as code"
+  },
+  {
+    "objectID": "03-gds_book.html#runs-anywhere",
+    "href": "03-gds_book.html#runs-anywhere",
+    "title": "Geographic Data Science with Python",
+    "section": "Runs anywhere…",
+    "text": "Runs anywhere…\n\n\n\n\n\n\n\ndarribas.org/gds_env"
+  },
+  {
+    "objectID": "03-gds_book.html#demo",
+    "href": "03-gds_book.html#demo",
+    "title": "Geographic Data Science with Python",
+    "section": "Demo 🚀",
+    "text": "Demo 🚀"
+  },
+  {
+    "objectID": "01-ua_overview.html#background",
+    "href": "01-ua_overview.html#background",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Background",
+    "text": "Background\n\n🏙️ Cities are (increasingly) relevant for all of humanity’s challenges but also their solutions\n📈 Data, data, data\n🤖 Data is the oil, analytics is the refinery (Rey, 2021)"
+  },
+  {
+    "objectID": "01-ua_overview.html#definition",
+    "href": "01-ua_overview.html#definition",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Definition",
+    "text": "Definition\n\n\n\n\n\nBatty (2019)\n\nSource\nNew, big, fast data; but also the theory behind them"
+  },
+  {
+    "objectID": "01-ua_overview.html#origins-evolution",
+    "href": "01-ua_overview.html#origins-evolution",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Origins & evolution",
+    "text": "Origins & evolution\n\nVague but early start linked to physics\nFrom deductive to inductive\nComputing and data technologies critical in trajectory\n\n\nSource"
+  },
+  {
+    "objectID": "01-ua_overview.html#urban-data-science",
+    "href": "01-ua_overview.html#urban-data-science",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Urban Data Science",
+    "text": "Urban Data Science\n\n\n\n\n\nKang et al. (2019)\n\nSource"
+  },
+  {
+    "objectID": "01-ua_overview.html#contemporary-urban-analytics",
+    "href": "01-ua_overview.html#contemporary-urban-analytics",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Contemporary Urban Analytics",
+    "text": "Contemporary Urban Analytics\n\nLanding the data/AI revolution on cities and regions\nNatively interdisciplinary (the urban as nexus)\nLinked to policy, decision-making, practice"
+  },
+  {
+    "objectID": "01-ua_overview.html#ep-b-urban-datacode",
+    "href": "01-ua_overview.html#ep-b-urban-datacode",
+    "title": "Urban Analytics  &  City Science",
+    "section": "EP-B Urban Data/Code",
+    "text": "EP-B Urban Data/Code\n\n\n\n\n\nArribas-Bel et al. (2021)\n\nSource"
+  },
+  {
+    "objectID": "01-ua_overview.html#pedagogy",
+    "href": "01-ua_overview.html#pedagogy",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Pedagogy",
+    "text": "Pedagogy\n\n\n\n\n\nUrban theory & methods\nInterdisciplinary\nModern tools\n\nSource"
+  },
+  {
+    "objectID": "01-ua_overview.html#urban-analyticsturing",
+    "href": "01-ua_overview.html#urban-analyticsturing",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Urban Analytics@Turing",
+    "text": "Urban Analytics@Turing\n\nSource"
+  },
+  {
+    "objectID": "00-intro.html#whoami---dani-arribas-bel",
+    "href": "00-intro.html#whoami---dani-arribas-bel",
+    "title": "MSc Engineers for Smart Cities",
+    "section": "whoami - Dani Arribas-Bel",
+    "text": "whoami - Dani Arribas-Bel\n\n\n\n\n\nDeputy Director Urban Analytics  The Alan Turing Institute\nProfessor in Geographic Data Science  University of Liverpool\nEmployee No. 2  Geographic Data Science Lab\n\n\n\nhttps://darribas.org | @darribas@mapstodon.space"
+  },
+  {
+    "objectID": "00-intro.html#materials",
+    "href": "00-intro.html#materials",
+    "title": "MSc Engineers for Smart Cities",
+    "section": "Materials",
+    "text": "Materials\n[Make available]"
+  },
+  {
+    "objectID": "00-intro.html#outline",
+    "href": "00-intro.html#outline",
+    "title": "MSc Engineers for Smart Cities",
+    "section": "Outline",
+    "text": "Outline\n\nUrban Analytics & City Science: Overview\nUrban Analytics in the wild: the DemoLand project\nGeographic Data Science with Python"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Urban Analytics - A Lecture",
+    "section": "",
+    "text": "This resource contains materials for a 4h lecture on Urban Analytics. It also contains the video recorded during the lecture delivery for the MSc Engineers for Smart Cities (Université Côte d’Azur) in November 2023.\n\n\n\nDani Arribas-Bel, PhD\ndarribas.org | @darribas@mapstodon.space\nDeputy Director, Urban Analytics\nThe Alan Turing Institute\nProfessor in Geographic Data Science\nGeographic Data Science Lab\nUniversity of Liverpool"
+  },
+  {
+    "objectID": "slides/00-intro.html#whoami---dani-arribas-bel",
+    "href": "slides/00-intro.html#whoami---dani-arribas-bel",
+    "title": "MSc Engineers for Smart Cities",
+    "section": "whoami - Dani Arribas-Bel",
+    "text": "whoami - Dani Arribas-Bel\n\n\n\n\n\nDeputy Director Urban Analytics  The Alan Turing Institute\nProfessor in Geographic Data Science  University of Liverpool\nEmployee No. 2  Geographic Data Science Lab\n\n\n\nhttps://darribas.org | @darribas@mapstodon.space"
+  },
+  {
+    "objectID": "slides/00-intro.html#materials",
+    "href": "slides/00-intro.html#materials",
+    "title": "MSc Engineers for Smart Cities",
+    "section": "Materials",
+    "text": "Materials\n\ndarribas.org/ua_lecture"
+  },
+  {
+    "objectID": "slides/00-intro.html#outline",
+    "href": "slides/00-intro.html#outline",
+    "title": "MSc Engineers for Smart Cities",
+    "section": "Outline",
+    "text": "Outline\n\nUrban Analytics & City Science: Overview\nUrban Analytics in the wild: the DemoLand project\nGeographic Data Science with Python"
+  },
+  {
+    "objectID": "slides/01-ua_overview.html#background",
+    "href": "slides/01-ua_overview.html#background",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Background",
+    "text": "Background\n\n🏙️ Cities are (increasingly) relevant for all of humanity’s challenges but also their solutions\n📈 Data, data, data\n🤖 Data is the oil, analytics is the refinery (Rey, 2021)"
+  },
+  {
+    "objectID": "slides/01-ua_overview.html#definition",
+    "href": "slides/01-ua_overview.html#definition",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Definition",
+    "text": "Definition\n\n\n\n\n\nBatty (2019)\n\nSource\nNew, big, fast data; but also the theory behind them"
+  },
+  {
+    "objectID": "slides/01-ua_overview.html#origins-evolution",
+    "href": "slides/01-ua_overview.html#origins-evolution",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Origins & evolution",
+    "text": "Origins & evolution\n\nVague but early start linked to physics\nFrom deductive to inductive\nComputing and data technologies critical in trajectory\n\n\nSource"
+  },
+  {
+    "objectID": "slides/01-ua_overview.html#urban-data-science",
+    "href": "slides/01-ua_overview.html#urban-data-science",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Urban Data Science",
+    "text": "Urban Data Science\n\n\n\n\n\nKang et al. (2019)\n\nSource"
+  },
+  {
+    "objectID": "slides/01-ua_overview.html#contemporary-urban-analytics",
+    "href": "slides/01-ua_overview.html#contemporary-urban-analytics",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Contemporary Urban Analytics",
+    "text": "Contemporary Urban Analytics\n\nLanding the data/AI revolution on cities and regions\nNatively interdisciplinary (the urban as nexus)\nLinked to policy, decision-making, practice"
+  },
+  {
+    "objectID": "slides/01-ua_overview.html#ep-b-urban-datacode",
+    "href": "slides/01-ua_overview.html#ep-b-urban-datacode",
+    "title": "Urban Analytics  &  City Science",
+    "section": "EP-B Urban Data/Code",
+    "text": "EP-B Urban Data/Code\n\n\n\n\n\nArribas-Bel et al. (2021)\n\nSource"
+  },
+  {
+    "objectID": "slides/01-ua_overview.html#pedagogy",
+    "href": "slides/01-ua_overview.html#pedagogy",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Pedagogy",
+    "text": "Pedagogy\n\n\n\n\n\nUrban theory & methods\nInterdisciplinary\nModern tools\n\nSource"
+  },
+  {
+    "objectID": "slides/01-ua_overview.html#urban-analyticsturing",
+    "href": "slides/01-ua_overview.html#urban-analyticsturing",
+    "title": "Urban Analytics  &  City Science",
+    "section": "Urban Analytics@Turing",
+    "text": "Urban Analytics@Turing\n\nSource"
+  },
+  {
+    "objectID": "slides/03-gds_book.html#its-a-book-you-can-buy",
+    "href": "slides/03-gds_book.html#its-a-book-you-can-buy",
+    "title": "Geographic Data Science with Python",
+    "section": "It’s a book you can buy!",
+    "text": "It’s a book you can buy!"
+  },
+  {
+    "objectID": "slides/03-gds_book.html#but-also",
+    "href": "slides/03-gds_book.html#but-also",
+    "title": "Geographic Data Science with Python",
+    "section": "But also…",
+    "text": "But also…\nFor free forever at:\n\n📖 https://geographicdata.science\n💻 \n💡 https://github.com/gdsbook/book"
+  },
+  {
+    "objectID": "slides/03-gds_book.html#the-authors",
+    "href": "slides/03-gds_book.html#the-authors",
+    "title": "Geographic Data Science with Python",
+    "section": "The Authors",
+    "text": "The Authors\n\n\n\n\n\n\n\n\n\n\n@sreyog\nSerge Rey\n\n\n\n\n\n@darribas\nDani Arribas-Bel\n\n\n\n\n\n@levijohnwolf\nLevi Wolf"
+  },
+  {
+    "objectID": "slides/03-gds_book.html#the-book-is",
+    "href": "slides/03-gds_book.html#the-book-is",
+    "title": "Geographic Data Science with Python",
+    "section": "The Book is…",
+    "text": "The Book is…"
+  },
+  {
+    "objectID": "slides/03-gds_book.html#python",
+    "href": "slides/03-gds_book.html#python",
+    "title": "Geographic Data Science with Python",
+    "section": "Python",
+    "text": "Python\n\n\n\n\nSource"
+  },
+  {
+    "objectID": "slides/03-gds_book.html#radically-open",
+    "href": "slides/03-gds_book.html#radically-open",
+    "title": "Geographic Data Science with Python",
+    "section": "Radically Open",
+    "text": "Radically Open"
+  },
+  {
+    "objectID": "slides/03-gds_book.html#code-as-text-text-as-code",
+    "href": "slides/03-gds_book.html#code-as-text-text-as-code",
+    "title": "Geographic Data Science with Python",
+    "section": "Code as text; text as code",
+    "text": "Code as text; text as code"
+  },
+  {
+    "objectID": "slides/03-gds_book.html#runs-anywhere",
+    "href": "slides/03-gds_book.html#runs-anywhere",
+    "title": "Geographic Data Science with Python",
+    "section": "Runs anywhere…",
+    "text": "Runs anywhere…\n\n\n\n\n\n\n\ndarribas.org/gds_env"
+  },
+  {
+    "objectID": "slides/03-gds_book.html#demo",
+    "href": "slides/03-gds_book.html#demo",
+    "title": "Geographic Data Science with Python",
+    "section": "Demo 🚀",
+    "text": "Demo 🚀"
+  },
+  {
+    "objectID": "slides/02-demoland.html#indicators",
+    "href": "slides/02-demoland.html#indicators",
+    "title": "The DemoLand project",
+    "section": "Indicators",
+    "text": "Indicators\n\n\n\n\n\n\nAir Quality\n\n\n\n\n\n\n\nHouse Prices\n\n\n\n\n\n\n\n\n\nJob Acessibility\n\n\n\n\n\n\n\nGreen Space Accessibility"
+  },
+  {
+    "objectID": "slides/02-demoland.html#land-use---spatial-signatures",
+    "href": "slides/02-demoland.html#land-use---spatial-signatures",
+    "title": "The DemoLand project",
+    "section": "Land Use - Spatial Signatures",
+    "text": "Land Use - Spatial Signatures\n\n\nCharacterisation of space based on form and function designed to understand urban environments\nUrbanGrammarAI.xyz"
+  },
+  {
+    "objectID": "slides/02-demoland.html#land-use-indicators",
+    "href": "slides/02-demoland.html#land-use-indicators",
+    "title": "The DemoLand project",
+    "section": "Land Use <–> Indicators",
+    "text": "Land Use &lt;–&gt; Indicators\nAccessibility scores\n\nEmployment\nGreen space\n\nPredictive models\n\nAir quality\nHouse prices"
+  },
+  {
+    "objectID": "slides/02-demoland.html#section-2",
+    "href": "slides/02-demoland.html#section-2",
+    "title": "The DemoLand project",
+    "section": "",
+    "text": "Exploring the effect of changing the baseline land use on the indicators of interest\n\nBaseline\nThe world as it is\nScenarios\nThe world as it could be"
+  },
+  {
+    "objectID": "slides/02-demoland.html#co-produced-scenarios",
+    "href": "slides/02-demoland.html#co-produced-scenarios",
+    "title": "The DemoLand project",
+    "section": "Co-produced scenarios",
+    "text": "Co-produced scenarios\n\nResidential development\n\nLow density (1)\nMid-density compact (2)\n\nInner-city densification (3)\nBrownfield redevelopment (4, 5)\n\nDense neighborhoods (4)\nParks (5)\n\nCombinations (6, 7)"
+  },
+  {
+    "objectID": "slides/02-demoland.html#demo-url",
+    "href": "slides/02-demoland.html#demo-url",
+    "title": "The DemoLand project",
+    "section": "Demo [URL]",
+    "text": "Demo [URL]"
+  },
+  {
+    "objectID": "slides/02-demoland.html#play-time---activity-i",
+    "href": "slides/02-demoland.html#play-time---activity-i",
+    "title": "The DemoLand project",
+    "section": "Play time - Activity I",
+    "text": "Play time - Activity I\n\n[10min] Explore the set scenarios on your own\n[10min] Think of a new scenario you would like to explore\n\nWhy is it relevant?\nWhat changes would it contain?\nWhat effects would you expect?"
+  },
+  {
+    "objectID": "slides/02-demoland.html#play-time---activity-ii",
+    "href": "slides/02-demoland.html#play-time---activity-ii",
+    "title": "The DemoLand project",
+    "section": "Play time - Activity II",
+    "text": "Play time - Activity II\nNew version! [URL]\n\n[15min] Implement your scenario (use the spatial signature descriptions for help\n[10min] Explore the changes when compared to the baseline\n\nAre they in line with your expectations?\nWhat is unexpected?\nWhy do you think this is?"
+  },
+  {
+    "objectID": "slides/02-demoland.html#behind-the-scenes",
+    "href": "slides/02-demoland.html#behind-the-scenes",
+    "title": "The DemoLand project",
+    "section": "“Behind the scenes…”",
+    "text": "“Behind the scenes…”\nUrban Data Science and all that jazz…\n\nPolicy relevance\nData, data, data\nModels, spatial analysis, machine learning\nCo-production"
+  },
+  {
+    "objectID": "downloads.html",
+    "href": "downloads.html",
+    "title": "Downloads",
+    "section": "",
+    "text": "Downloads\nYou can download PDF versions of the slides below:\n\nIntroduction\nUA Overview\nDemoLand\nGDS Book"
+  },
+  {
+    "objectID": "video.html",
+    "href": "video.html",
+    "title": "Video",
+    "section": "",
+    "text": "Video\n\n\nTimeline:\n\n00:00:00 Introduction\n00:11:34 UA Overview\n01:00:53 DemoLand\n03:21:27 GDS Book"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Urban Analytics - A Lecture",
+    "section": "",
+    "text": "Dani Arribas-Bel, PhD\ndarribas.org | @darribas@mapstodon.space\nDeputy Director, Urban Analytics\nThe Alan Turing Institute\nProfessor in Geographic Data Science\nGeographic Data Science Lab\nUniversity of Liverpool"
+  }
+]
